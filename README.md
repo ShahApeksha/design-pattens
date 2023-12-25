@@ -9,3 +9,6 @@ Examples include Adapter, Decorator, and Composite patterns.
 Behavioral Patterns:
 Define the ways in which objects interact and communicate with each other.
 Examples include Observer, State, and Iterator patterns.
+
+Architectural Patterns:
+Architectural patterns provide a higher-level blueprint for organizing and structuring systems, influencing the relationships between major components and ensuring a scalable and maintainable architecture.
