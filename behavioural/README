@@ -1,0 +1,18 @@
+Behavioural design patterns deal with the interaction of objects in an object-oriented 
+software application. They provide a set of guidelines formulated by software pioneers that 
+identify common communication pattern among objects and provide a way to solve 
+commonly occurring object interaction related problems in software design.
+
+Five well-known design patterns that are parts of behavioural patterns are the
+
+1. Memento Design Pattern, which provides the ability to restore an object to its 
+previous state (rollback).
+2. Observer Design Pattern, a.k.a. Publish/Subscribe or Event Listener. Objects 
+register to observe an event that may be raised by another object. Weak reference 
+pattern: De-couple an observer from an observable.
+3. Mediator Design Pattern, which provides a unified interface to a set of interfaces 
+in a subsystem
+4. State Design Pattern, which is a clean way for an object to partially change its type 
+at runtime.
+5. Iterator Design Pattern, Iterators are used to access the elements of an aggregate 
+object sequentially without exposing its underlying representation
